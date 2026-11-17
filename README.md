@@ -1,6 +1,6 @@
 # Quantem Python Research Portfolio
 
-A work-in-progress portfolio of actuarial automation and quantitative research code. The projects are presented for software and modelling review; strategy results are experimental and do not represent investment performance.
+A work-in-progress portfolio of automation and quantitative research code. The projects are presented for software and modelling review; strategy results are experimental and do not represent investment performance.
 
 ## Projects
 
