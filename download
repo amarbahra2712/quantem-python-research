@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+*.log
+NEXUS/01_data/raw/
+NEXUS/10_results/
